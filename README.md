@@ -1,2 +1,2 @@
 # my-first-attempts
-I try new things tor improve myself.
+I try new things for improve myself.
